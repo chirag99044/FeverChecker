@@ -43,6 +43,13 @@ To get started with Fever Checker, follow these simple steps:
 
 3. Use the app regularly to monitor your health and well-being.
 
+## Additional Resources 📚
+
+You can also download PDF documents related to Fever Checker:
+
+- [Question-Bank-for-Computer-Learner-License-Test.pdf](https://github.com/chirag99044/FeverChecker/files/12840695/Question-Bank-for-Computer-Learner-License-Test.pdf)
+-[traffic rules in india pdf.pdf](https://github.com/chirag99044/FeverChecker/files/12840694/traffic.rules.in.india.pdf.pdf)
+
 ## Contributing 🤝
 
 Contributions to Fever Checker are welcome! If you'd like to contribute to this project, please follow these guidelines:
