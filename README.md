@@ -9,8 +9,10 @@ Fever Checker is a handy Android app designed to help users monitor their health
 <!-- Replace 'IMAGE_URL' with the actual URL of your app's image -->
 <img src="https://github.com/chirag99044/FeverChecker/assets/123812544/eaaf008e-28f6-415e-8b9b-3a21dd17ef5c" alt="Fever Checker App Screenshot" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/chirag99044/FeverChecker/assets/123812544/c25b4d48-2cfa-4304-8640-c32163b1bccd" alt="Fever Checker App Screenshot" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br><br>
 <img src="https://github.com/chirag99044/FeverChecker/assets/123812544/ac47b722-b2e8-478a-ac17-1ab5105bd550" alt="Fever Checker App Screenshot" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/chirag99044/FeverChecker/assets/123812544/a41f5357-2213-43d9-b85f-a9a7dc5fd7c4" alt="Fever Checker App Screenshot" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br><br>
 <img src="https://github.com/chirag99044/FeverChecker/assets/123812544/90c96bf0-7d53-4bdc-923b-9b25298d2b4c" alt="Fever Checker App Screenshot" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Features 🌟
