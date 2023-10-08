@@ -48,7 +48,7 @@ To get started with Fever Checker, follow these simple steps:
 You can also download PDF documents related to Fever Checker:
 
 - [Question-Bank-for-Computer-Learner-License-Test.pdf](https://github.com/chirag99044/FeverChecker/files/12840695/Question-Bank-for-Computer-Learner-License-Test.pdf)
--[traffic rules in india pdf.pdf](https://github.com/chirag99044/FeverChecker/files/12840694/traffic.rules.in.india.pdf.pdf)
+- [traffic rules in india pdf.pdf](https://github.com/chirag99044/FeverChecker/files/12840694/traffic.rules.in.india.pdf.pdf)
 
 ## Contributing 🤝
 
