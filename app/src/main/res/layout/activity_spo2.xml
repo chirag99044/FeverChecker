@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="10sp"
+    android:background="@color/bgWhite_bgBlack"
+    android:weightSum="10"
+    tools:context=".spo2Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Check Your Spo2"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_gravity="center"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnspo2Dialog"
+        android:layout_width="match_parent"
+        android:text="Click Here and Enter Your Spo2"
+        android:background="@color/bgWhite_bgBlack"
+        android:layout_height="0sp"
+        android:layout_weight="8"/>
+
+    <LinearLayout
+        android:id="@+id/Spo2LinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/FirstLinearLayout">
+
+        <TextView
+            android:id="@+id/ResultSpo2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black_white"
+            tools:text = "Result"
+            android:textStyle="bold"
+            android:textSize="25sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

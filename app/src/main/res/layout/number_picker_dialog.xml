@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/alertdialoadshape"
+    tools:context=".spo2Activity">
+
+    <NumberPicker
+        android:id="@+id/dialogNumberPicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.Picker"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="64dp" />
+
+     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dialogNumberPicker"
+        android:background="@drawable/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Submit" />
+
+</RelativeLayout>

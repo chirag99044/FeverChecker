@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5sp"
+    android:orientation="vertical"
+    tools:context=".ExploreActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black_white"
+            android:gravity="center"
+            android:layout_marginBottom="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            tools:text="Main Heading"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15sp"
+        android:layout_marginStart="5sp"
+        android:layout_marginEnd="5sp"
+        app:cardBackgroundColor="@color/login_signup_background"
+        app:cardCornerRadius="30sp"
+        android:elevation="10sp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Heading1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_white"
+                tools:text="Heading"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:id="@+id/Description1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="8sp"
+                android:textColor="@color/black_white"
+                android:layout_marginStart="3sp"
+                android:textSize="15sp"
+                tools:text="Description"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15sp"
+            android:layout_marginStart="5sp"
+            android:layout_marginEnd="5sp"
+            app:cardBackgroundColor="@color/login_signup_background"
+            app:cardCornerRadius="30sp"
+            android:elevation="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Heading2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black_white"
+                    android:paddingStart="8sp"
+                    tools:text="Heading"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="20sp"/>
+
+                <TextView
+                    android:id="@+id/Description2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="8sp"
+                    android:textColor="@color/black_white"
+                    android:layout_marginStart="3sp"
+                    android:textSize="15sp"
+                    tools:text="Description"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15sp"
+            android:layout_marginStart="5sp"
+            android:layout_marginEnd="5sp"
+            app:cardBackgroundColor="@color/login_signup_background"
+            app:cardCornerRadius="30sp"
+            android:elevation="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Heading3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black_white"
+                    tools:text="Heading"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="20sp"/>
+
+                <TextView
+                    android:id="@+id/Description3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="8sp"
+                    android:textColor="@color/black_white"
+                    android:layout_marginStart="3sp"
+                    android:textSize="15sp"
+                    tools:text="Description"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="8sp"
+            android:layout_marginBottom="15sp"
+            android:layout_marginStart="5sp"
+            android:layout_marginEnd="5sp"
+            app:cardBackgroundColor="@color/login_signup_background"
+            app:cardCornerRadius="30sp"
+            android:elevation="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Heading4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black_white"
+                    tools:text="Heading"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="20sp"/>
+
+                <TextView
+                    android:id="@+id/Description4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="8sp"
+                    android:textColor="@color/black_white"
+                    android:layout_marginStart="3sp"
+                    android:textSize="15sp"
+                    tools:text="Description"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="8sp"
+            android:layout_marginBottom="15sp"
+            android:layout_marginStart="5sp"
+            android:layout_marginEnd="5sp"
+            app:cardBackgroundColor="@color/login_signup_background"
+            app:cardCornerRadius="30sp"
+            android:elevation="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Heading5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="8sp"
+                    android:textColor="@color/black_white"
+                    tools:text="Heading"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="20sp"/>
+
+                <TextView
+                    android:id="@+id/Description5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="8sp"
+                    android:textColor="@color/black_white"
+                    android:layout_marginStart="3sp"
+                    android:textSize="15sp"
+                    tools:text="Description"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>
